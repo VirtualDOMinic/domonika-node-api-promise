@@ -1,0 +1,23 @@
+{
+  "name": "domonika-node-api-promise",
+  "version": "1.0.0",
+  "description": "Having a go at using promises with node APIs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VirtualDOMinic/domonika-node-api-promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VirtualDOMinic/domonika-node-api-promise/issues"
+  },
+  "homepage": "https://github.com/VirtualDOMinic/domonika-node-api-promise#readme",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
